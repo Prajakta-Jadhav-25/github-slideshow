@@ -1,5 +1,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Do or Die"-Mahatma Gandhi
 Use the left arrow to go back!
